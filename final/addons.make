@@ -1,0 +1,4 @@
+ofxOpenCv
+ofxBlur
+ofxCameraFilter
+ofxCv
